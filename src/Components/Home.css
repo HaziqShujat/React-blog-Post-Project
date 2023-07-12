@@ -1,0 +1,28 @@
+.Homepage {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 2px 2px 1px grey;
+  }
+  
+  .Homepage h1 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  .homhed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12px;
+  }
+  
+  .hidden-form {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  
